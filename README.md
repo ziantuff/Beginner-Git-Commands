@@ -1,1 +1,1 @@
-## Git Best Practices
+# Git Best Practices
